@@ -10,7 +10,15 @@ and professional user experience.
 
 The project recreates important sections of a modern payment website, including the navigation bar, payment-related content, login
 and signup buttons, responsive layouts, interactive hover effects, typography, spacing, and visually consistent components.
+
+
+<img width="1919" height="1052" alt="image" src="https://github.com/user-attachments/assets/eb070e86-32d7-4e9a-a110-00f805bd28c7" />
+
+
+
 **Tailwind CSS** is being used extensively to build and customize the UI efficiently without relying on pre-built templates.
+
+
 
 Through this project, I am gaining practical experience with **responsive design, Flexbox, Tailwind utility classes, positioning,
 colors, typography, transitions, and component-based UI development**.
