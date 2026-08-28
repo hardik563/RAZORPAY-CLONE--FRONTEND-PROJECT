@@ -1,7 +1,8 @@
 # Razorpay Frontend Clone
 
 This project is a frontend clone inspired by the Razorpay payment platform, created to strengthen my web development and UI design skills.
-I am developing the interface using **HTML, CSS, JavaScript, and Tailwind CSS**, focusing on creating a clean, responsive,
+I am developing the interface using 
+**HTML, CSS, JavaScript, and Tailwind CSS**, focusing on creating a clean, responsive,
 and professional user experience.
 
 <img width="1918" height="309" alt="image" src="https://github.com/user-attachments/assets/806c4780-ea5f-492e-899d-7c76fa92b9eb" />
