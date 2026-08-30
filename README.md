@@ -16,6 +16,7 @@ The project recreates important sections of a modern payment website, including 
 and signup buttons, responsive layouts, interactive hover effects, typography, spacing, and visually consistent components.
 
 
+
 <img width="1919" height="1052" alt="image" src="https://github.com/user-attachments/assets/eb070e86-32d7-4e9a-a110-00f805bd28c7" />
 
 
