@@ -8,6 +8,7 @@ I am developing the interface using
 focusing on creating a clean, responsive,
 and professional user experience.
 
+
 <img width="1918" height="309" alt="image" src="https://github.com/user-attachments/assets/806c4780-ea5f-492e-899d-7c76fa92b9eb" />
 
 
