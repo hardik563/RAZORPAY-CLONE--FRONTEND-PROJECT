@@ -20,7 +20,6 @@ and signup buttons, responsive layouts, interactive hover effects, typography, s
 
 
 
-
 **Tailwind CSS** is being used extensively to build and customize the UI efficiently without relying on pre-built templates.
 
 
